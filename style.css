@@ -1,0 +1,15 @@
+body{
+    display: grid;
+    background-color: rgb(172, 166, 166);
+}
+.video{
+    align-items: center;
+    text-align: center;
+
+}
+.video iframe{
+    align-items: center;
+    padding-top: 10px;
+
+    
+}
